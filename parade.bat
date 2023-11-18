@@ -1,0 +1,1 @@
+python c:\2022Robot\getBattery.py
